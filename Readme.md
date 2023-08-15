@@ -5,6 +5,10 @@
 ```sh 
 git remote add origin git@github.com:amittri1025/git_made_simple.git
 ```
+### Set it using 
+```sh
+git remote set-url origin your-url
+```
 
 
 
