@@ -1,16 +1,5 @@
 # A simple repository to learn git
 
-## Playing with Remote urls
-
-```sh 
-git remote add origin git@github.com:amittri1025/git_made_simple.git
-```
-### Set it using 
-```sh
-git remote set-url origin your-url
-```
-
-
 
 ## Renaming branches in Git
 
