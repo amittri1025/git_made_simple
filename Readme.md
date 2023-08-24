@@ -1,5 +1,9 @@
 # A simple repository to learn git
 
+## git setting on new system
+will show the config
+```git confg --list```
+
 
 ## Renaming branches in Git
 
